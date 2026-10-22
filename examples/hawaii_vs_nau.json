@@ -1,0 +1,109 @@
+{
+  "game": {
+    "video": "footage/hawaii.webm",
+    "title": "Hawai'i vs Northern Arizona",
+    "subtitle": "W 85-68 vs Northern Arizona",
+    "credit": "Footage: Warrior Insider (vimeo.com/301560697), CC BY 3.0. Edited.",
+    "usable_bottom": 0.76
+  },
+  "players": [
+    {
+      "id": "haw",
+      "name": "Rainbow Warriors",
+      "team": "home",
+      "final_line": {
+        "HAW": 85,
+        "NAU": 68
+      },
+      "hook": null
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "t": 6.31,
+      "type": "3PT_MADE",
+      "player_id": "haw",
+      "shot": {
+        "x": 0.18,
+        "y": 0.48
+      },
+      "clip_start": 4.6,
+      "clip_end": 6.68,
+      "rim": [
+        0.74,
+        0.56
+      ]
+    },
+    {
+      "id": "e3",
+      "t": 101.52,
+      "type": "3PT_MADE",
+      "player_id": "haw",
+      "shot": {
+        "x": 0.04,
+        "y": 0.06
+      },
+      "tags": [
+        "deep"
+      ],
+      "clip_start": 99.9,
+      "clip_end": 101.85,
+      "rim": [
+        0.74,
+        0.48
+      ]
+    },
+    {
+      "id": "e5",
+      "t": 383.28,
+      "type": "2PT_MADE",
+      "player_id": "haw",
+      "shot": {
+        "x": 0.5,
+        "y": 0.05
+      },
+      "tags": [
+        "dunk"
+      ],
+      "clip_start": 381.5,
+      "clip_end": 383.75,
+      "rim": [
+        0.38,
+        0.2
+      ]
+    },
+    {
+      "id": "e6",
+      "t": 454.3,
+      "type": "3PT_MADE",
+      "player_id": "haw",
+      "shot": {
+        "x": 0.8,
+        "y": 0.42
+      },
+      "clip_start": 452.5,
+      "clip_end": 454.58,
+      "rim": [
+        0.42,
+        0.27
+      ]
+    },
+    {
+      "id": "e7",
+      "t": 465.55,
+      "type": "3PT_MADE",
+      "player_id": "haw",
+      "shot": {
+        "x": 0.22,
+        "y": 0.5
+      },
+      "clip_start": 464.0,
+      "clip_end": 465.85,
+      "rim": [
+        0.42,
+        0.53
+      ]
+    }
+  ]
+}

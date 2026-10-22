@@ -1,0 +1,9 @@
+[project]
+name = "superstat-montage"
+version = "0.1.0"
+description = "One-click TikTok highlight montages from tagged basketball game film"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "pillow>=10.0"]
+
+[project.scripts]
+montage = "montage.__main__:main"
